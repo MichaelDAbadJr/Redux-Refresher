@@ -32,15 +32,17 @@ This project serves as a refresher on Redux for state management in React applic
 3. **Install the dependencies:**
    ```sh
    npm install
+   ```sh
    # or
-   ```
+   ```sh
    yarn install
-   ```
+   ```sh
 
 4. **To start the development server, use:**
    ```sh
    npm start
+   ```sh
    # or
-   ```
+   ```sh
    yarn start
-   ```
+   ```sh
