@@ -33,12 +33,14 @@ This project serves as a refresher on Redux for state management in React applic
    ```sh
    npm install
    # or
-   ```sh
+   ```
    yarn install
+   ```
 
 4. **To start the development server, use:**
    ```sh
    npm start
    # or
-   ```sh
+   ```
    yarn start
+   ```
