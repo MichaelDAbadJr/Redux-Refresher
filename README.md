@@ -24,21 +24,27 @@ This project serves as a refresher on Redux for state management in React applic
 
    ```sh
    git clone https://github.com/MichaelDAbadJr/Redux-Refresher
+   ```
 
 2. **Navigate to the project directory:**
    ```sh
    cd Redux-Refresher
+   ```
 
 3. **Install the dependencies:**
    ```sh
    npm install
+   ```
    # or
    ```sh
    yarn install
+   ```
 
 4. **To start the development server, use:**
    ```sh
    npm start
+   ```
    # or
    ```sh
    yarn start
+   ```
