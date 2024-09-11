@@ -36,7 +36,7 @@ This project serves as a refresher on Redux for state management in React applic
    npm install
    ```
    # or
-   ```sh
+   ```
    yarn install
    ```
 
@@ -45,6 +45,6 @@ This project serves as a refresher on Redux for state management in React applic
    npm start
    ```
    # or
-   ```sh
+   ```
    yarn start
    ```
